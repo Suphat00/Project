@@ -1,7 +1,7 @@
 # ☻ Project
 
 -----
-# ☺ 2024
+# ★ 2024
 ### SA Project : Hotel reservation system 
 Planing, Analysis, Design and Develop system
 - [https://drive.google.com/file/d/1aLUklgywawkpvsi0F7gZerfgdXqYsjXc/view](https://drive.google.com/file/d/1aLUklgywawkpvsi0F7gZerfgdXqYsjXc/view)
@@ -16,12 +16,12 @@ Used Tableau Desktop
 - [https://www.salesforce.com/trailblazer/zt9vt9y3pybci0y9m7](https://www.salesforce.com/trailblazer/zt9vt9y3pybci0y9m7)
 
 -----
-# ☺ 2023
+# ★ 2023
 ### Puzzle Game
 Used Java in Coding
 
 -----
-# ☺ 2022
+# ★ 2022
 ### RESTAURANT
 Used C++ and OOP in Coding
 - [https://www.onlinegdb.com/MZ-OvBxgt](https://www.onlinegdb.com/MZ-OvBxgt)
